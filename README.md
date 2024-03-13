@@ -37,7 +37,9 @@
     <li>🌱 I'm always on the lookout to learn something new and enhance my skills in the world of software development.</li>
     <li>💍 Married to Aldana and proud parent of two adorable dogs, Chavo and Pipi 🐶🐶.</li>
     <li>📚 Besides my passion for programming, I enjoy sports like soccer or paddle, music, and movies.</li>
-    <li>🌐 Website [sashaKowalc](https://sashakowalc-cv.vercel.app)</li>
+  <li> 
+    
+  🌐 Website [sashaKowalc](https://sashakowalc-cv.vercel.app) </li>
   </ul>
 </details>
 
