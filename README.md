@@ -1,38 +1,43 @@
 <div id="header" align="center">
-  <img src="" width="300"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmZ6NXhrY3o5bnJyamR4c2Rpa3ZtMTdmcDJ0NTU1ZDFmZTJueTVkciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350"/>
   <h1 align="center">Hi👋, I'm Sasha Kowalczuk</h1>
   <h3 align="center">
     I'm a passionate fullstack developer with a love for crafting innovative and functional projects. Originally from Buenos Aires 🇦🇷 and currently based in Madrid 🇪🇸, I've spent the past years honing my skills both on the backend and frontend.
   </h3>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/sasha-nahuel/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
-  </a>
+---
+<details open>
+  <summary><h2>🌐 Socials</h2></summary>
+  <div id="badges" align="left">
+    <a href="https://www.linkedin.com/in/sasha-nahuel/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+    </a>
     <a href="https://www.instagram.com/sashakowalczuk/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
+      <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
     <a href="https://www.facebook.com/sasha.nahuel" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+      <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
     <a href="https://sashakowalc-cv.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="CV Badge"/>
-  </a>
+      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="CV Badge"/>
+    </a>
 </div>
+  
+</details>
 
 ---
 
 <!--Section About Me-->
 <details open>
-  <summary><h2>About Me</h2></summary>
+  <summary><h2>💫 About Me</h2></summary>
   <ul>
     <li>💼 Currently, I work as a fullstack developer, specializing in Java for the backend and React for the frontend.</li>
     <li>🎓 Completed courses in Fullstack Web Development with React and Node.js at Digital House and Backend Development with Java at Platzi. Additionally, I have advanced studies in Business Administration (incomplete degree).</li>
     <li>🌱 I'm always on the lookout to learn something new and enhance my skills in the world of software development.</li>
     <li>💍 Married to Aldana and proud parent of two adorable dogs, Chavo and Pipi 🐶🐶.</li>
     <li>📚 Besides my passion for programming, I enjoy sports like soccer or paddle, music, and movies.</li>
-    <li>🌐 Website [sashaKowalc](https://sashakowalc-cv.vercel.app/)</li>
+    <li>🌐 Website [sashaKowalc](https://sashakowalc-cv.vercel.app)</li>
   </ul>
 </details>
 
@@ -40,7 +45,7 @@
 
 <!--Section Skills-->
 <details open> 
-  <summary><h2>My Featured Skills</h2></summary>
+  <summary><h2>💡 My Featured Skills</h2></summary>
   <ul>
     <li>💻 Backend: <br>
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
@@ -78,22 +83,17 @@
 ---
 
 <details open> 
-  <summary><h2>Featured Projects</h2></summary>
-  <div>
-    
-  </div>
+  <summary><h2>📊 GitHub Stats</h2></summary>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=SashaKowalc&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=SashaKowalc&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SashaKowalc&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </details>
-<!--
-**SashaKowalc/sashaKowalc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open> 
+  <summary><h2>🏆 GitHub Trophies</h2></summary>
+
+  ![](https://github-profile-trophy.vercel.app/?username=SashaKowalc&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</details>
